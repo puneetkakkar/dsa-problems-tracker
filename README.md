@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-###  <p style="text-align:center;">![](https://progress-bar.dev/0.2?title=completed&width=350)</p> 
+###  <p style="text-align:center;">![](https://progress-bar.dev/0?title=completed&width=350)</p> 
 
 ### Arrays
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
