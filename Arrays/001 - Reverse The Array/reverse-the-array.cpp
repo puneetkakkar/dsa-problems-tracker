@@ -1,21 +1,29 @@
+
+/**
+ * @file reverse-the-array.cpp
+ * @author Puneet Kakkar (puneetkakkar91@gmail.com)
+ * @brief Reversing the array in-place without using any in-built stl functions
+ * @version 0.1
+ * @date 2022-07-02
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
 
-class Solution
-{
+class Solution {
 public:
-  void reverseArray(vector<int> &numbers)
-  {
-    if (numbers.size() == 0)
-    {
+  void reverseArray(vector<int> &numbers) {
+    if (numbers.size() == 0) {
       exit(0);
     }
 
     auto startIt = numbers.begin();
     auto lastIt = numbers.end() - 1;
-    while (startIt < lastIt)
-    {
+    while (startIt < lastIt) {
       swapNumbers(numbers, startIt, lastIt);
       ++startIt;
       --lastIt;
@@ -26,17 +34,15 @@ public:
     cout << endl;
   }
 
-  void swapNumbers(vector<int> &numbers, vector<int>::iterator startIt, vector<int>::iterator lastIt)
-  {
+  void swapNumbers(vector<int> &numbers, vector<int>::iterator startIt,
+                   vector<int>::iterator lastIt) {
     *startIt = *startIt + *lastIt;
     *lastIt = *startIt - *lastIt;
     *startIt = *startIt - *lastIt;
   }
 
-  void displayVector(vector<int> &vec)
-  {
-    for (auto it = vec.begin(); it != vec.end(); it++)
-    {
+  void displayVector(vector<int> &vec) {
+    for (auto it = vec.begin(); it != vec.end(); it++) {
       cout << *it << " ";
     }
 
@@ -44,10 +50,9 @@ public:
   }
 };
 
-int main()
-{
-  Solution s;
-  vector<int> vec = {1,2,3,4,5,6,7,8,9,10};
+int main() {
+  Solution    s;
+  vector<int> vec = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
   cout << "Original Array " << endl;
   s.displayVector(vec);
   s.reverseArray(vec);
