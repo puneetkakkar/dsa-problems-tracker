@@ -9,7 +9,7 @@
   - [X] [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
   - [X] [Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
   - [X] [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
-  - [ ] [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
+  - [X] [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
   - [ ] [find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [ ] [Minimise the maximum difference between heights [V.IMP]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
   - [ ] [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
