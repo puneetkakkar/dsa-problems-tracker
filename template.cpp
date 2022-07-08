@@ -2,29 +2,24 @@
 
 using namespace std;
 
-class Solution
-{
+class Solution {
 public:
-    void runSample()
-    {
-        // Write your code here
+  void runSample() {
+    // Write your code here
+  }
+
+  void displayVector(vector<int> &vec) {
+    for (auto it = vec.begin(); it != vec.end(); it++) {
+      cout << *it << " ";
     }
 
-    void displayVector(vector<int> &vec)
-    {
-        for (auto it = vec.begin(); it != vec.end(); it++)
-        {
-            cout << *it << " ";
-        }
-
-        cout << endl;
-    }
+    cout << endl;
+  }
 };
 
-int main()
-{
-    Solution s;
-    s.runSample();
+int main() {
+  Solution s;
+  s.runSample();
 
-    return 0;
+  return 0;
 }
