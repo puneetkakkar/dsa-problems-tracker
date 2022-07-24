@@ -17,7 +17,7 @@
   - [X] [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) [B]
   - [X] [Kadane's Algo [V.V.V.V.V IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-  - [X] [Next Permutation](https://leetcode.com/problems/next-permutation/)
+  - [X] [Next Permutation](https://leetcode.com/problems/next-permutation/) [B]
   - [ ] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
   - [ ] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [ ] [find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
