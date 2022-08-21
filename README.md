@@ -19,7 +19,7 @@
   - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   - [X] [Next Permutation](https://leetcode.com/problems/next-permutation/) [B]
   - [X] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) [B]
-  - [ ] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [X] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [ ] [find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
   - [ ] [find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
   - [ ] [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
