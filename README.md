@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-###  <p style="text-align:center;">![](https://progress-bar.dev/2?title=completed&width=350)</p> 
+###  <p style="text-align:center;">![](https://progress-bar.dev/3?title=completed&width=350)</p> 
 
 ### Arrays
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
@@ -18,7 +18,7 @@
   - [X] [Kadane's Algo [V.V.V.V.V IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   - [X] [Next Permutation](https://leetcode.com/problems/next-permutation/) [B]
-  - [ ] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+  - [X] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) [B]
   - [ ] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [ ] [find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
   - [ ] [find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
