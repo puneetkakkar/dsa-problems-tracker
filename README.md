@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-###  <p style="text-align:center;">![](https://progress-bar.dev/3?title=completed&width=350)</p> 
+###  <p style="text-align:center;">![](https://progress-bar.dev/4?title=completed&width=350)</p> 
 
 ### Arrays
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
@@ -20,8 +20,8 @@
   - [X] [Next Permutation](https://leetcode.com/problems/next-permutation/) [B]
   - [X] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) [B]
   - [X] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-  - [X] [find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
-  - [ ] [find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
+  - [X] [Find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
+  - [X] [Find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
   - [ ] [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
   - [ ] [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
   - [ ] [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)
