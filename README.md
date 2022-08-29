@@ -24,7 +24,7 @@
   - [X] [Find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
   - [X] [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
   - [X] [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
-  - [ ] [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
+  - [X] [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
   - [ ] [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)
   - [ ] [find maximum product subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)
   - [ ] [Find longest coinsecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
