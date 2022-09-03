@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-###  <p style="text-align:center;">![](https://progress-bar.dev/4?title=completed&width=350)</p> 
+###  <p style="text-align:center;">![](https://progress-bar.dev/5?title=completed&width=350)</p> 
 
 ### Arrays
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
@@ -25,7 +25,7 @@
   - [X] [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
   - [X] [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
   - [X] [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
-  - [ ] [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)
+  - [X] [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0) [B]
   - [ ] [find maximum product subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)
   - [ ] [Find longest coinsecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
   - [ ] [Given an array of size n and a number k, fin all elements that appear more than " n/k " times.](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
