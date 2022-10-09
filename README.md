@@ -33,7 +33,7 @@
   - [X] [Find whether an array is a subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
   - [X] [Find the triplet that sum to a given value](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0)
   - [ ] [Trapping Rain water problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
-  - [ ] [Chocolate Distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+  - [X] [Chocolate Distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
   - [ ] [Smallest Subarray with sum greater than a given value](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0)
   - [ ] [Three way partitioning of an array around a given value](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
   - [ ] [Minimum swaps required bring elements less equal K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)
