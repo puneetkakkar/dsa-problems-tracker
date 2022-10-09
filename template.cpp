@@ -39,10 +39,13 @@ int main() {
   int t;
   cin >> t;
   while (t--) {
+    int n;
     vector<int> vec;
 
-    for (int i = 0; i < 10; i++) {
-      vec.push_back(rand() % 10);
+    cin >> n;
+
+    for (int i = 0; i < n; i++) {
+      vec.push_back(rand() % n);
     }
 
     Solution s;
