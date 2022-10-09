@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-###  <p style="text-align:center;">![](https://progress-bar.dev/6?title=completed&width=350)</p> 
+###  <p style="text-align:center;">![](https://progress-bar.dev/7?title=completed&width=350)</p> 
 
 ### Arrays
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
@@ -35,7 +35,7 @@
   - [X] [Trapping Rain water problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
   - [X] [Chocolate Distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
   - [X] [Smallest Subarray with sum greater than a given value](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0)
-  - [ ] [Three way partitioning of an array around a given value](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
+  - [X] [Three way partitioning of an array around a given value](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
   - [ ] [Minimum swaps required bring elements less equal K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)
   - [ ] [Minimum no. of operations required to make an array palindrome](https://practice.geeksforgeeks.org/problems/palindromic-array/0)
   - [ ] [Median of 2 sorted arrays of equal size](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
