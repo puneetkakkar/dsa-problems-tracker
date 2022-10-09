@@ -1,4 +1,4 @@
-# Array Subset of another array
+# Chocolate Distribution Problem
 
 ### Given an array A[ ] of positive integers of size N, where each value represents the number of chocolates in a packet. Each packet can have a variable number of chocolates. There are M students, the task is to distribute chocolate packets among M students such that :
 1. Each student gets exactly one packet.
