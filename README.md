@@ -2,7 +2,8 @@
 
 ###  <p style="text-align:center;">![](https://progress-bar.dev/7?title=completed&width=350)</p> 
 
-### Arrays
+#### *Total Questions Solved: 33* 
+### Arrays *(33/36)*
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
   - [X] [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
   - [X] [Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
@@ -43,7 +44,7 @@
 
 <br/>
 
-### Matrix
+### Matrix *(0/10)*
   - [ ] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
   - [ ] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
   - [ ] [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
@@ -57,7 +58,7 @@
 
 <br/>
 
-### String
+### String *(0/43)*
   - [ ] [Reverse a String](https://leetcode.com/problems/reverse-string/)
   - [ ] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
   - [ ] [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
@@ -103,7 +104,7 @@
 
 <br/>
 
-### Searching and Sorting
+### Searching and Sorting *(0/36)*
   - [ ] [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
   - [ ] [Find a Fixed Point (Value equal to index) in a given array](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1)
   - [ ] [Search in a rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -143,7 +144,7 @@
 
 <br/>
 
-### Linked List
+### Linked List *(0/36)*
   - [ ] [Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)
   - [ ] [Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
   - [ ] [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
@@ -183,7 +184,7 @@
 
 <br/>
 
-### Binary Trees
+### Binary Trees *(0/35)*
   - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
   - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
   - [ ] [Height of a tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
