@@ -36,7 +36,7 @@
   - [X] [Chocolate Distribution problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
   - [X] [Smallest Subarray with sum greater than a given value](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0)
   - [X] [Three way partitioning of an array around a given value](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
-  - [ ] [Minimum swaps required bring elements less equal K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0)
+  - [X] [Minimum swaps required bring elements less equal K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0) [B]
   - [ ] [Minimum no. of operations required to make an array palindrome](https://practice.geeksforgeeks.org/problems/palindromic-array/0)
   - [ ] [Median of 2 sorted arrays of equal size](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
   - [ ] [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
