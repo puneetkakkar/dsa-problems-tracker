@@ -2,7 +2,7 @@
 
 ###  <p style="text-align:center;">![](https://progress-bar.dev/7?title=completed&width=350)</p> 
 
-#### *Total Questions Solved: 33* 
+#### *Total Questions Solved: 34* 
 ### Arrays *(33/36)*
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
   - [X] [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
@@ -44,8 +44,8 @@
 
 <br/>
 
-### Matrix *(0/10)*
-  - [ ] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+### Matrix *(1/10)*
+  - [X] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
   - [ ] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
   - [ ] [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
   - [ ] [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
@@ -223,7 +223,7 @@
 
 <br/>
 
-### Binary Search Trees
+### Binary Search Trees *(0/22)*
   - [ ] [Find a value in a BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
   - [ ] [Deletion of a node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
   - [ ] [Find min and max value in a BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
