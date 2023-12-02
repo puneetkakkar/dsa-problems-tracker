@@ -46,7 +46,7 @@
 
 ### Matrix *(1/10)*
   - [X] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
-  - [ ] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
+  - [X] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
   - [ ] [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
   - [ ] [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
   - [ ] [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0)
