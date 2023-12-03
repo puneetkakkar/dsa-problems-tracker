@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-###  <p style="text-align:center;">![](https://progress-bar.dev/7?title=completed&width=350)</p> 
+###  <p style="text-align:center;">![](https://progress-bar.dev/8?title=completed&width=350)</p> 
 
 #### *Total Questions Solved: 34* 
 ### Arrays *(33/36)*
@@ -44,11 +44,11 @@
 
 <br/>
 
-### Matrix *(1/10)*
+### Matrix *(4/10)*
   - [X] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
   - [X] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
   - [X] [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) [B]
-  - [ ] [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+  - [X] [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
   - [ ] [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0)
   - [ ] [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
   - [ ] [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)
