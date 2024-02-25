@@ -11,7 +11,7 @@
   - [X] [Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
   - [X] [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
   - [X] [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
-  - [X] [Find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) [B]
+  - [X] [Find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) [DP]
   - [X] [Minimise the maximum difference between heights [V.IMP]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) [B]
   - [X] [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0) [B]
   - [X] [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/) [B]
