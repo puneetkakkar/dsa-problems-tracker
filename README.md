@@ -11,10 +11,10 @@
   - [X] [Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
   - [X] [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
   - [X] [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
-  - [X] [Find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) [DP]
-  - [X] [Minimise the maximum difference between heights [V.IMP]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) [B]
-  - [X] [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0) [B]
-  - [X] [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/) [B]
+  - [X] [Find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) [REVISIT-DP]
+  - [X] [Minimise the maximum difference between heights [V.IMP]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) [REVISIT]
+  - [X] [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+  - [X] [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)
   - [X] [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) [B]
   - [X] [Kadane's Algo [V.V.V.V.V IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
