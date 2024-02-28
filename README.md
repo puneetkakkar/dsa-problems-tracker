@@ -19,7 +19,7 @@
   - [X] [Kadane's Algo [V.V.V.V.V IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   - [X] [Next Permutation](https://leetcode.com/problems/next-permutation/)
-  - [X] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) [B]
+  - [X] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) [REVISIT]
   - [X] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [X] [Find all pairs on integer array whose sum is equal to given number](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
   - [X] [Find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
