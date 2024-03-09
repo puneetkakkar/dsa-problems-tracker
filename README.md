@@ -28,7 +28,7 @@
   - [X] [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) [REVISIT]
   - [X] [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0) [REVISIT]
   - [X] [Find maximum product subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1) [REVISIT]
-  - [X] [Find longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0) [B]
+  - [X] [Find longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0) [REVISIT]
   - [X] [Given an array of size n and a number k, fin all elements that appear more than " n/k " times.](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
   - [ ] [Maximum profit by buying and selling a share atmost twice](https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/)
   - [X] [Find whether an array is a subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
