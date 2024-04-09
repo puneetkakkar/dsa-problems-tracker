@@ -39,7 +39,7 @@
   - [X] [Three way partitioning of an array around a given value](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
   - [X] [Minimum swaps required bring elements less equal K together](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0) [REVISIT]
   - [X] [Minimum no. of operations required to make an array palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/) [REVISIT]
-  - [ ] [Median of 2 sorted arrays of equal size](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
+  - [ ] [Median of 2 sorted arrays of equal size](https://practice.geeksforgeeks.org/problems/find-the-median0527/1) [REVISIT]
   - [ ] [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
 
 <br/>
