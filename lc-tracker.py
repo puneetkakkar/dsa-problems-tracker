@@ -67,10 +67,8 @@ def create_page(data: dict):
         "parent": {"type": "database_id", "database_id": DATABASE_ID},
         "properties": data,
     }
-    print(payload)
 
     res = requests.post(create_url, headers=headers, json=payload)
-    print(res.status_code)
     return res
 
 
@@ -86,7 +84,6 @@ def present_in_database(leetcode_number):
     response = requests.post(url, json=filterProperties, headers=headers)
 
     data = response.json()
-    print(data)
 
     # Comment this out to dump all data to a file
     # with open('db.json', 'w', encoding='utf8') as f:
