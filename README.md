@@ -2,7 +2,7 @@
 
 ###  <p style="text-align:center;">![](https://progress-bar.dev/8?title=completed&width=350)</p> 
 
-#### *Total Questions Solved: 34* 
+#### *Total Questions Solved: 39* 
 ### Arrays *(33/36)*
   - [X] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/?target=_blank)
   - [X] [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
@@ -44,7 +44,7 @@
 
 <br/>
 
-### Matrix *(4/10)*
+### Matrix *(5/10)*
   - [X] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
   - [X] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
   - [X] [Find median in a row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) [REVISIT]
@@ -58,7 +58,7 @@
 
 <br/>
 
-### String *(0/43)*
+### String *(1/43)*
   - [ ] [Reverse a String](https://leetcode.com/problems/reverse-string/)
   - [ ] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
   - [ ] [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
@@ -73,7 +73,7 @@
   - [ ] [Word Wrap Problem [VERY IMP].](https://practice.geeksforgeeks.org/problems/word-wrap/0)
   - [ ] [EDIT Distance [Very Imp]](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
   - [ ] [Find next greater number with same set of digits. [Very Very IMP]](https://practice.geeksforgeeks.org/problems/next-permutation/0)
-  - [ ] [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+  - [X] [Balanced Parenthesis problem.[Imp]](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
   - [ ] [Word break Problem[ Very Imp]](https://practice.geeksforgeeks.org/problems/word-break/0)
   - [ ] [Rabin Karp Algo](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
   - [ ] [KMP Algo](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)
