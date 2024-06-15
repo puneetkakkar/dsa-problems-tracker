@@ -205,7 +205,7 @@
 - [ ] [Top View of a tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 - [ ] [Bottom View of a tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 - [ ] [Zig-Zag traversal of a binary tree](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
-- [ ] [Check if a tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
+- [X] [Check if a tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
 - [ ] [Diagonal Traversal of a Binary tree](https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/)
 - [ ] [Boundary traversal of a Binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 - [ ] [Construct Binary Tree from String with Bracket Representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/)
