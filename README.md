@@ -1,8 +1,8 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/8?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/9?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 40_
+#### _Total Questions Solved: 41_
 
 ### Arrays _(33/36)_
 
@@ -61,10 +61,10 @@
 
 <br/>
 
-### String _(1/43)_
+### String _(2/43)_
 
 - [ ] [Reverse a String](https://leetcode.com/problems/reverse-string/)
-- [ ] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
+- [X] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
 - [ ] [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
 - [ ] [Write a Code to check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
 - [ ] [Write a Program to check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)
@@ -190,13 +190,13 @@
 
 <br/>
 
-### Binary Trees _(0/35)_
+### Binary Trees _(1/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 - [ ] [Height of a tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 - [ ] [Diameter of a tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
-- [ ] [Mirror of a tree](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/)
+- [X] [Mirror of a tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [ ] [Inorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
 - [ ] [Preorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
 - [ ] [Postorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
