@@ -149,11 +149,11 @@
 
 <br/>
 
-### Linked List _(0/36)_
+### Linked List _(1/36)_
 
 - [ ] [Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 - [ ] [Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
-- [ ] [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+- [X] [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 - [ ] [Write a program to Delete loop in a linked list.](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 - [ ] [Find the starting point of the loop. ](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)
 - [ ] [Remove Duplicates in a sorted Linked List.](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
@@ -190,7 +190,7 @@
 
 <br/>
 
-### Binary Trees _(1/35)_
+### Binary Trees _(2/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
@@ -205,7 +205,7 @@
 - [ ] [Top View of a tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 - [ ] [Bottom View of a tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 - [ ] [Zig-Zag traversal of a binary tree](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
-- [X] [Check if a tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
+- [X] [Check if a tree is balanced or not](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [Diagonal Traversal of a Binary tree](https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/)
 - [ ] [Boundary traversal of a Binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 - [ ] [Construct Binary Tree from String with Bracket Representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/)
