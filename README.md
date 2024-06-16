@@ -257,7 +257,7 @@
 
 <br />
 
-### Stacks & Queues _(1/37)_
+### Stacks & Queues _(2/37)_
 
 - [ ] [Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 - [ ] [Implement Queue from Scratch](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
@@ -278,7 +278,7 @@
 - [ ] [Largest rectangular Area in Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
 - [ ] [Length of the Longest Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1)
 - [ ] [Expression contains redundant bracket or not](https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/)
-- [ ] [Implement Stack using Queue](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+- [X] [Implement Stack using Queue](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 - [ ] [Implement Stack using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
 - [ ] [Stack Permutations (Check if an array is stack permutation of other)](https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/)
 - [ ] [Implement Queue using Stack](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
