@@ -1,6 +1,6 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/9?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/10?title=completed&width=350)</p>
 
 #### _Total Questions Solved: 41_
 
@@ -149,9 +149,9 @@
 
 <br/>
 
-### Linked List _(1/36)_
+### Linked List _(2/36)_
 
-- [ ] [Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)
+- [X] [Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 - [ ] [Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
 - [X] [Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 - [ ] [Write a program to Delete loop in a linked list.](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
