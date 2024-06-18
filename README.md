@@ -195,7 +195,7 @@
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 - [ ] [Height of a tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
-- [ ] [Diameter of a tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+- [X] [Diameter of a tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [X] [Mirror of a tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [ ] [Inorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
 - [ ] [Preorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
