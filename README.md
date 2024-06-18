@@ -257,7 +257,7 @@
 
 <br />
 
-### Stacks & Queues _(2/37)_
+### Stacks & Queues _(3/37)_
 
 - [ ] [Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 - [ ] [Implement Queue from Scratch](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
@@ -281,7 +281,7 @@
 - [X] [Implement Stack using Queue](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 - [ ] [Implement Stack using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
 - [ ] [Stack Permutations (Check if an array is stack permutation of other)](https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/)
-- [ ] [Implement Queue using Stack](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+- [X] [Implement Queue using Stack](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 - [ ] [Implement "n" queue in an array](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)
 - [ ] [Implement a Circular queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/)
 - [ ] [LRU Cache Implementation](https://practice.geeksforgeeks.org/problems/lru-cache/1)
