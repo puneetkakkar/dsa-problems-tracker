@@ -1,8 +1,8 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/10?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/11?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 49_
+#### _Total Questions Solved: 50_
 
 ### Arrays _(33/36)_
 
@@ -190,11 +190,11 @@
 
 <br/>
 
-### Binary Trees _(3/35)_
+### Binary Trees _(4/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
-- [ ] [Height of a tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [X] [Height of a tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 - [X] [Diameter of a tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 - [X] [Mirror of a tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [ ] [Inorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
