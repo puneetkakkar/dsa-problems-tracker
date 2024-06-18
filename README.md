@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/10?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 46_
+#### _Total Questions Solved: 49_
 
 ### Arrays _(33/36)_
 
@@ -149,7 +149,7 @@
 
 <br/>
 
-### Linked List _(2/36)_
+### Linked List _(3/36)_
 
 - [X] [Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 - [ ] [Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
@@ -165,7 +165,7 @@
 - [ ] [Intersection Point of two Linked Lists.](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 - [ ] [Merge Sort For Linked lists.[Very Important]](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)
 - [ ] [Quicksort for Linked Lists.[Very Important]](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
-- [ ] [Find the middle Element of a linked list.](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Find the middle Element of a linked list.](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Check if a linked list is a circular linked list.](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)
 - [ ] [Split a Circular linked list into two halves.](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)
 - [ ] [Write a Program to check whether the Singly Linked list is a palindrome or not.](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
@@ -190,7 +190,7 @@
 
 <br/>
 
-### Binary Trees _(2/35)_
+### Binary Trees _(3/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
