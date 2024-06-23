@@ -32,6 +32,7 @@ headers = {
     "Notion-Version": "2022-06-28",
 }
 
+
 def get_leetcode_info_by_id(id):
     try:
         leetcode_url = f"{LEETCODE_INFO_URL}{id}"
@@ -50,6 +51,7 @@ def get_leetcode_info_by_id(id):
         sys.exit(errt)
     except RequestException as err:
         sys.exit(err)
+
 
 def update_page(page_id: str, data: dict):
     url = f"https://api.notion.com/v1/pages/{page_id}"
@@ -131,13 +133,17 @@ def main():
     parser = argparse.ArgumentParser(
         description="Generate leetcode question to fill up Notion for tracking of questions"
     )
-    parser.add_argument("leetcode_number", type=int, help="leetcode question number")
+    parser.add_argument("leetcode_number", type=int,
+                        help="leetcode question number")
+    parser.add_argument("-b", "--bookmark",
+                        action="store_true", help="bookmark a question")
     parser.add_argument(
-        "comment", nargs="?", default="", help="optional comment for the question"
+        "-c", "--comment", nargs="?", default="", help="optional comment for the question"
     )
     args = parser.parse_args()
 
     leetcode_number_input_by_user = args.leetcode_number
+    leetcode_bookmark_input_by_user = args.bookmark
     leetcode_comment_input_by_user = args.comment
 
     leet_code = get_leetcode_info_by_id(leetcode_number_input_by_user)
@@ -151,17 +157,19 @@ def main():
 
     if page_id is not None:
         if leetcode_comment_input_by_user != "":
-
             updateData = {
                 "Id": {"number": leetcode_number_input_by_user},
                 "Notes": {
                     "rich_text": [{"text": {"content": leetcode_comment_input_by_user}}]
                 },
+                "Bookmark": {"checkbox": leetcode_bookmark_input_by_user}
             }
         else:
             updateData = {
                 "Id": {"number": leetcode_number_input_by_user},
+                "Bookmark": {"checkbox": leetcode_bookmark_input_by_user}
             }
+
         update_page(page_id, updateData)
         print(
             f"Question {leetcode_number_input_by_user} updated (Last Done) in the Notion database."
@@ -190,10 +198,12 @@ def main():
             "Notes": {
                 "rich_text": [{"text": {"content": leetcode_comment_input_by_user}}]
             },
+            "Bookmark": {"checkbox": leetcode_bookmark_input_by_user}
         }
 
         create_page(data)
-        print(f"Question {leetcode_number_input_by_user} added to the Notion database.")
+        print(
+            f"Question {leetcode_number_input_by_user} added to the Notion database.")
 
 
 if __name__ == "__main__":
