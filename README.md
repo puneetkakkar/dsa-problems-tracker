@@ -1,8 +1,8 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/11?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/12?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 53_
+#### _Total Questions Solved: 54_
 
 ### Arrays _(33/36)_
 
@@ -257,7 +257,7 @@
 
 <br />
 
-### Stacks & Queues _(3/37)_
+### Stacks & Queues _(4/37)_
 
 - [ ] [Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 - [ ] [Implement Queue from Scratch](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
@@ -270,7 +270,7 @@
 - [ ] [Find the next Greater element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
 - [ ] [The celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
 - [ ] [Arithmetic Expression evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/)
-- [ ] [Evaluation of Postfix expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
+- [X] [Evaluation of Postfix expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 - [ ] [Implement a method to insert an element at its bottom without using any other data structure.](https://www.geeksforgeeks.org/program-to-insert-an-element-at-the-bottom-of-a-stack/)
 - [ ] [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
 - [ ] [Sort a Stack using recursion](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
