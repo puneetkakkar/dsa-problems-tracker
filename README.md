@@ -300,7 +300,7 @@
 
 <br />
 
-### Graph _(0/44)_
+### Graph _(1/44)_
 
 - [ ] [Create a Graph, print it](https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5)
 - [ ] [Create a Graph (for practice)](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)
@@ -315,7 +315,7 @@
 - [ ] [Making wired Connections](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] [Dijkstra algo](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/)
-- [ ] [Implement Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
+- [X] [Implement Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
 - [ ] [Minimum time taken by each job to be completed given by a Directed Acyclic Graph](https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/)
 - [ ] [Find whether it is possible to finish all tasks or not from given dependencies](https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/)
 - [ ] [Find the no. of Islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
