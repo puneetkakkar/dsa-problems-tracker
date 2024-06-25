@@ -230,7 +230,7 @@
 
 <br/>
 
-### Binary Search Trees _(0/22)_
+### Binary Search Trees _(1/22)_
 
 - [ ] [Find a value in a BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
 - [ ] [Deletion of a node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
@@ -238,7 +238,7 @@
 - [ ] [Find inorder successor and inorder predecessor in a BST](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)
 - [ ] [Check if a tree is a BST or not ](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 - [ ] [Populate Inorder successor of all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1)
-- [ ] [Find LCA of 2 nodes in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+- [X] [Find LCA of 2 nodes in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
 - [ ] [Construct BST from preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)
 - [ ] [Convert Binary tree into BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)
 - [ ] [Convert a normal BST into a Balanced BST](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/)
