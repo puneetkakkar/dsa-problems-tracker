@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/11?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 50_
+#### _Total Questions Solved: 53_
 
 ### Arrays _(33/36)_
 
@@ -306,7 +306,7 @@
 - [ ] [Create a Graph (for practice)](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)
 - [ ] [Implement BFS algorithm](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 - [ ] [Implement DFS Algo](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
-- [x] [Detect Cycle in Directed Graph using BFS/DFS Algo](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+- [ ] [Detect Cycle in Directed Graph using BFS/DFS Algo](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 - [ ] [Detect Cycle in UnDirected Graph using BFS/DFS Algo](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 - [ ] [Search in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 - [ ] [Minimum Step by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight/0)
