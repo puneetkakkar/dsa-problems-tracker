@@ -347,3 +347,28 @@
 - [ ] [Minimise the cashflow among a given set of friends who have borrowed money from each other](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/)
 - [ ] [Two Clique Problem](https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/)
 
+<br />
+
+### Dynamic Programming _(0/60)_
+
+- [ ] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
+- [ ] [0/1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+- [ ] [Binomial Coefficient Problem](https://practice.geeksforgeeks.org/problems/ncr1019/1)
+- [ ] [Permutation Coefficient Problem](https://www.geeksforgeeks.org/permutation-coefficient/)
+- [ ] [Program for nth Catalan Number](https://practice.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1/)
+- [ ] [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/)
+- [ ] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
+- [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+- [ ] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
+- [ ] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1)
+- [ ] [Assembly Line Scheduling Problem](https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/)
+- [ ] [Painting the Fence Problem](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1)
+- [ ] [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
+- [ ] [Longest Common Subsequence (LCS)](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
+- [ ] [Longest Repeated Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
+- [ ] [Longest Increasing Subsequence (LIS)](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+- [ ] [Space Optimized Solution of LCS](https://www.geeksforgeeks.org/space-optimized-solution-lcs/)
+- [ ] [LCS (Longest Common Subsequence) of three strings](https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0)
+- [ ] [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
+- [ ] [Count all subsequences having product less than K](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)
+- [ ] [Longest subsequence such that difference between adjacent is one](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1)
