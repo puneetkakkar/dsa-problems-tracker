@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/12?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 54_
+#### _Total Questions Solved: 56_
 
 ### Arrays _(33/36)_
 
@@ -349,7 +349,7 @@
 
 <br />
 
-### Trie _(0/6)_
+### Trie _(1/6)_
 
 - [X] [Construct a trie from scratch](https://www.geeksforgeeks.org/trie-insert-and-search/)
 - [ ] [Find shortest unique prefix for every word in a given list](https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/)
@@ -360,9 +360,9 @@
 
 <br />
 
-### Dynamic Programming _(0/60)_
+### Dynamic Programming _(1/60)_
 
-- [ ] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
+- [X] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
 - [ ] [0/1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
 - [ ] [Binomial Coefficient Problem](https://practice.geeksforgeeks.org/problems/ncr1019/1)
 - [ ] [Permutation Coefficient Problem](https://www.geeksforgeeks.org/permutation-coefficient/)
