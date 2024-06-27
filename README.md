@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/12?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 56_
+#### _Total Questions Solved: 57_
 
 ### Arrays _(33/36)_
 
@@ -108,7 +108,7 @@
 
 <br/>
 
-### Searching and Sorting _(1/36)_
+### Search and Sort _(2/36)_
 
 - [ ] [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 - [ ] [Find a Fixed Point (Value equal to index) in a given array](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1)
@@ -125,7 +125,7 @@
 - [ ] [Count triplet with sum smaller than a given value](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)
 - [ ] [Merge 2 sorted arrays](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
 - [ ] [Print all subarrays with 0 sum](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
-- [ ] [Product array Puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle/0)
+- [X] [Product array Puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle/0)
 - [ ] [Sort array according to count of set bits](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0)
 - [ ] [Minimum no. of swaps required to sort the array](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
 - [ ] [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
