@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/12?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 57_
+#### _Total Questions Solved: 58_
 
 ### Arrays _(33/36)_
 
@@ -257,7 +257,7 @@
 
 <br />
 
-### Stacks & Queues _(4/37)_
+### Stacks & Queues _(5/37)_
 
 - [ ] [Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 - [ ] [Implement Queue from Scratch](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
@@ -266,7 +266,7 @@
 - [x] [Check the expression has valid or Balanced parenthesis or not.](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 - [ ] [Implement "N" stacks in an Array](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)
 - [ ] [Reverse a String using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
-- [ ] [Design a Stack that supports getMin() in O(1) time and O(1) extra space.](https://practice.geeksforgeeks.org/problems/special-stack/1)
+- [X] [Design a Stack that supports getMin() in O(1) time and O(1) extra space.](https://practice.geeksforgeeks.org/problems/special-stack/1)
 - [ ] [Find the next Greater element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
 - [ ] [The celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
 - [ ] [Arithmetic Expression evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/)
