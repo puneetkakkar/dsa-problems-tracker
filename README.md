@@ -1,8 +1,8 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/12?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/13?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 58_
+#### _Total Questions Solved: 59_
 
 ### Arrays _(33/36)_
 
@@ -230,13 +230,13 @@
 
 <br/>
 
-### Binary Search Trees _(1/22)_
+### Binary Search Trees _(2/22)_
 
 - [ ] [Find a value in a BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
 - [ ] [Deletion of a node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 - [ ] [Find min and max value in a BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
 - [ ] [Find inorder successor and inorder predecessor in a BST](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)
-- [ ] [Check if a tree is a BST or not ](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+- [X] [Check if a tree is a BST or not ](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 - [ ] [Populate Inorder successor of all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1)
 - [X] [Find LCA of 2 nodes in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
 - [ ] [Construct BST from preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)
