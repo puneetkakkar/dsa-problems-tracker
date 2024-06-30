@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/13?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 59_
+#### _Total Questions Solved: 60_
 
 ### Arrays _(33/36)_
 
@@ -300,7 +300,7 @@
 
 <br />
 
-### Graph _(1/44)_
+### Graph _(2/44)_
 
 - [ ] [Create a Graph, print it](https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5)
 - [ ] [Create a Graph (for practice)](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)
@@ -318,7 +318,7 @@
 - [X] [Implement Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
 - [ ] [Minimum time taken by each job to be completed given by a Directed Acyclic Graph](https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/)
 - [ ] [Find whether it is possible to finish all tasks or not from given dependencies](https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/)
-- [ ] [Find the no. of Islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+- [X] [Find the no. of Islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
 - [ ] [Given a sorted Dictionary of an Alien Language, find order of characters](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
 - [ ] [Implement Kruskal’s Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 - [ ] [Implement Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
