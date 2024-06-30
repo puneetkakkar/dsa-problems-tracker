@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/13?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 60_
+#### _Total Questions Solved: 61_
 
 ### Arrays _(33/36)_
 
@@ -257,13 +257,13 @@
 
 <br />
 
-### Stacks & Queues _(5/37)_
+### Stacks & Queues _(6/37)_
 
 - [ ] [Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 - [ ] [Implement Queue from Scratch](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
 - [ ] [Implement 2 stack in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
 - [ ] [Find the middle element of a stack](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)
-- [x] [Check the expression has valid or Balanced parenthesis or not.](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+- [X] [Check the expression has valid or Balanced parenthesis or not.](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 - [ ] [Implement "N" stacks in an Array](https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)
 - [ ] [Reverse a String using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
 - [X] [Design a Stack that supports getMin() in O(1) time and O(1) extra space.](https://practice.geeksforgeeks.org/problems/special-stack/1)
@@ -289,7 +289,7 @@
 - [ ] [Reverse the first “K” elements of a queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
 - [ ] [Interleave the first half of the queue with second half](https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/)
 - [ ] [Find the first circular tour that visits all Petrol Pumps](https://practice.geeksforgeeks.org/problems/circular-tour/1)
-- [ ] [Minimum time required to rot all oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
+- [X] [Minimum time required to rot all oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 - [ ] [Distance of nearest cell having 1 in a binary matrix](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0)
 - [ ] [First negative integer in every window of size "k"](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0)
 - [ ] [Check if all levels of two trees are anagrams or not.](https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/)
