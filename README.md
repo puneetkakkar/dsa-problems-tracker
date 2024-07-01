@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/13?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 61_
+#### _Total Questions Solved: 62_
 
 ### Arrays _(33/36)_
 
@@ -108,11 +108,11 @@
 
 <br/>
 
-### Search and Sort _(2/36)_
+### Search and Sort _(3/36)_
 
 - [ ] [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 - [ ] [Find a Fixed Point (Value equal to index) in a given array](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1)
-- [ ] [Search in a rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] [Search in a rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Square root of an integer](https://practice.geeksforgeeks.org/problems/count-squares3649/1)
 - [ ] [Maximum and minimum of an array using minimum number of comparisons](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1)
 - [ ] [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.)
