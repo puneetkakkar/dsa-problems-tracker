@@ -1,8 +1,8 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/13?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/14?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 62_
+#### _Total Questions Solved: 63_
 
 ### Arrays _(33/36)_
 
@@ -254,6 +254,13 @@
 - [ ] [Check whether BST contains Dead end](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)
 - [ ] [Largest BST in a Binary Tree [ V.V.V.V.V IMP ]](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 - [ ] [Flatten BST to sorted list](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/)
+
+<br />
+
+### Backtracking _(1/19)_
+
+- [ ] [Rat in a maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [X] [Combinational Sum](https://practice.geeksforgeeks.org/problems/combination-sum/0)
 
 <br />
 
