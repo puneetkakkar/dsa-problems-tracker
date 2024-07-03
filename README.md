@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/14?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 63_
+#### _Total Questions Solved: 64_
 
 ### Arrays _(33/36)_
 
@@ -190,7 +190,7 @@
 
 <br/>
 
-### Binary Trees _(4/35)_
+### Binary Trees _(5/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
@@ -222,7 +222,7 @@
 - [ ] [Find Largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/)
 - [ ] [Maximum Sum of nodes in Binary tree such that no two are adjacent ](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/)
 - [ ] [Print all "K" Sum paths in a Binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)
-- [ ] [Find LCA in a Binary tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+- [X] [Find LCA in a Binary tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 - [ ] [Find distance between 2 nodes in a Binary tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)
 - [ ] [Kth Ancestor of node in a Binary tree](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/)
 - [ ] [Find all Duplicate subtrees in a Binary tree [ IMP ]](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1)
