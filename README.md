@@ -270,6 +270,14 @@
 - [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
 - [ ] [The Knight’s tour problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/)
 - [ ] [Tug of War](https://www.geeksforgeeks.org/tug-of-war/)
+- [ ] [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/)
+- [ ] [Find Maximum number possible by doing at-most K swaps](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0)
+- [ ] [Print all permutations of a string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
+- [ ] [Find if there is a path of more than k length from a source](https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/)
+- [ ] [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/)
+- [ ] [Print all possible paths from top left to bottom right of a mXn matrix](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/)
+- [ ] [Partition of a set intoK subsets with equal sum](https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)
+- [ ] [Find the K-th Permutation Sequence of first N natural numbers](https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/)
 
 <br />
 
