@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/14?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 64_
+#### _Total Questions Solved: 65_
 
 ### Arrays _(33/36)_
 
@@ -384,7 +384,7 @@
 
 <br />
 
-### Dynamic Programming _(1/60)_
+### Dynamic Programming _(2/60)_
 
 - [X] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
 - [ ] [0/1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
@@ -407,3 +407,4 @@
 - [ ] [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
 - [ ] [Count all subsequences having product less than K](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)
 - [ ] [Longest subsequence such that difference between adjacent is one](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1)
+- [X] [Word Break Problem](https://practice.geeksforgeeks.org/problems/word-break/0)
