@@ -407,4 +407,6 @@
 - [ ] [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
 - [ ] [Count all subsequences having product less than K](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)
 - [ ] [Longest subsequence such that difference between adjacent is one](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1)
+- [ ] [Maximum subsequence sum such that no three are consecutive](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents-2/1)
+- [ ] [Egg Dropping Problem](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
 - [X] [Word Break Problem](https://practice.geeksforgeeks.org/problems/word-break/0)
