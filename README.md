@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/14?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 66_
+#### _Total Questions Solved: 67_
 
 ### Arrays _(33/36)_
 
@@ -257,7 +257,7 @@
 
 <br />
 
-### Backtracking _(1/19)_
+### Backtracking _(2/19)_
 
 - [ ] [Rat in a maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 - [X] [Combinational Sum](https://practice.geeksforgeeks.org/problems/combination-sum/0)
@@ -267,7 +267,7 @@
 - [ ] [Sudoku Solver](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
 - [ ] [m Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem/0)
 - [ ] [Print all palindromic partitions of a string](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/)
-- [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+- [X] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
 - [ ] [The Knight’s tour problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/)
 - [ ] [Tug of War](https://www.geeksforgeeks.org/tug-of-war/)
 - [ ] [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/)
