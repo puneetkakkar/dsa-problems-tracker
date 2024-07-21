@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/14?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 65_
+#### _Total Questions Solved: 66_
 
 ### Arrays _(33/36)_
 
@@ -384,7 +384,7 @@
 
 <br />
 
-### Dynamic Programming _(2/60)_
+### Dynamic Programming _(3/60)_
 
 - [X] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
 - [ ] [0/1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
@@ -393,7 +393,7 @@
 - [ ] [Program for nth Catalan Number](https://practice.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1/)
 - [ ] [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/)
 - [ ] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
-- [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+- [X] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
 - [ ] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
 - [ ] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1)
 - [ ] [Assembly Line Scheduling Problem](https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/)
