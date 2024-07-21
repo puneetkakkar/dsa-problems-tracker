@@ -1,8 +1,8 @@
 # DSA Problems Tracker
 
-### <p style="text-align:center;">![](https://progress-bar.dev/14?title=completed&width=350)</p>
+### <p style="text-align:center;">![](https://progress-bar.dev/15?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 67_
+#### _Total Questions Solved: 68_
 
 ### Arrays _(33/36)_
 
@@ -190,7 +190,7 @@
 
 <br/>
 
-### Binary Trees _(5/35)_
+### Binary Trees _(6/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
@@ -201,7 +201,7 @@
 - [ ] [Preorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
 - [ ] [Postorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
 - [ ] [Left View of a tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
-- [ ] [Right View of Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+- [X] [Right View of Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
 - [ ] [Top View of a tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 - [ ] [Bottom View of a tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 - [ ] [Zig-Zag traversal of a binary tree](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
