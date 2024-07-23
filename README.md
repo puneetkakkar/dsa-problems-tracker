@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/15?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 68_
+#### _Total Questions Solved: 70_
 
 ### Arrays _(33/36)_
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-### String _(2/43)_
+### String _(3/43)_
 
 - [ ] [Reverse a String](https://leetcode.com/problems/reverse-string/)
 - [X] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
@@ -69,7 +69,7 @@
 - [ ] [Write a Code to check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
 - [ ] [Write a Program to check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)
 - [ ] [Count and Say problem](https://leetcode.com/problems/count-and-say/)
-- [ ] [Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)
+- [X] [Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)
 - [ ] [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
 - [ ] [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)
 - [ ] [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
@@ -384,7 +384,7 @@
 
 <br />
 
-### Dynamic Programming _(3/60)_
+### Dynamic Programming _(4/60)_
 
 - [X] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
 - [ ] [0/1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
@@ -410,3 +410,4 @@
 - [ ] [Maximum subsequence sum such that no three are consecutive](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents-2/1)
 - [ ] [Egg Dropping Problem](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
 - [X] [Word Break Problem](https://practice.geeksforgeeks.org/problems/word-break/0)
+- [X] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
