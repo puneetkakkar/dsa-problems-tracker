@@ -2,7 +2,7 @@
 
 ### <p style="text-align:center;">![](https://progress-bar.dev/15?title=completed&width=350)</p>
 
-#### _Total Questions Solved: 70_
+#### _Total Questions Solved: 71_
 
 ### Arrays _(33/36)_
 
@@ -190,7 +190,7 @@
 
 <br/>
 
-### Binary Trees _(6/35)_
+### Binary Trees _(7/35)_
 
 - [ ] [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
@@ -211,7 +211,7 @@
 - [ ] [Construct Binary Tree from String with Bracket Representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/)
 - [ ] [Convert Binary tree into Doubly Linked List](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 - [ ] [Convert Binary tree into Sum tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1)
-- [ ] [Construct Binary tree from Inorder and preorder traversal](https://practice.geeksforgeeks.org/problems/construct-tree-1/1)
+- [X] [Construct Binary tree from Inorder and preorder traversal](https://practice.geeksforgeeks.org/problems/construct-tree-1/1)
 - [ ] [Find minimum swaps required to convert a Binary tree into BST](https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/#:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010.)
 - [ ] [Check if Binary tree is Sum tree or not](https://practice.geeksforgeeks.org/problems/sum-tree/1)
 - [ ] [Check if all leaf nodes are at same level or not](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1)
