@@ -72,4 +72,7 @@
 lc
 .env
 
+# Timer files
+.active_timers.json
+
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
